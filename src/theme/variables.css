@@ -233,4 +233,23 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-card-background: #1e1e1e;
   }
+
+  .font-bold{
+    font-weight: bold;
+  }
+
+  .custom-id-label {
+    width: 60px;
+    text-align: center; 
+    margin-right: 5px;
+  }
+
+  ion-list-header {
+    --background: #19422d;
+    --color: #fff;
+  
+    --border-width: 0 0 4px 0;
+    --border-color: #f24aec;
+    --border-style: double;
+  }
 }
